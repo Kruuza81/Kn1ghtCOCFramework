@@ -1,5 +1,6 @@
 # Kn1ghtCOCFramework
 *My English Isn't Good,So I Use The Deepseek To Translate,It's Might Has Some Wrongs.
+*I Originally Planned To Create A Scripting Language, But Unfortunately My Skills Were Insufficient, So I Created a Framework. This Is Also The Reason Why Some Files In The File Were Not Renamed As "Kn1ghtCOCFramework".
 ## Introduction
 KnightCOCFramework is a framework designed to assist creators in developing their own tabletop role-playing games.
 Therefore, using KnightCOCFramework requires some programming knowledge, but don't worry, this document will provide a zero-based tutorial to help you complete your project smoothly.
@@ -16,7 +17,7 @@ If all the above conditions are met, you can easily use this framework to create
 ## What if the device does not have a PC (personal computer) operating system?
 If your device does not have a PC operating system, the development process will be somewhat challenging.
 In this case, I suggest you either write the code directly using a note-taking app on your phone and let Kn1ght debug and run it for free, or pay Kn1ght 16.8 yuan(2 doller) to write it for you hhh.(Chinese Only)
-However, buying a computer is not an insurmountable challenge. Generally, you can assemble a barely usable PC for around 200~1000 yuan（25 ~ 125 doller）. You can search for tutorials on Bilibili, Douyin, or Tieba (Tualatin Bar). Using AI or Baidu is not recommended.
+However, buying a computer is not an insurmountable challenge. Generally, you can assemble a barely usable PC for around 200~1000 yuan（25 ~ 125 doller,In US or Other Countrys Can Not Do That）. You can search for tutorials on Bilibili, Douyin, or Tieba (Tualatin Bar). Using AI or Baidu is not recommended.
 ## Development Tutorial
 ### 1. Understanding the Player Class
 > Class: A programming term, roughly meaning a collection of many properties and functions, which can be understood as a "class" in games. Using "classes" can easily implement various functions.
