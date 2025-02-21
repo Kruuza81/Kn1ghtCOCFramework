@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kn1ght跑团框架/1.0.0": {
+        "runtime": {
+          "Kn1ght跑团框架.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kn1ght跑团框架/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
